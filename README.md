@@ -1,2 +1,6 @@
 # hello-world
-New repository just to learn how to use github
+
+Hello all
+Hilaire over here.
+Trying to create a new web application that will drastically revolutionize the social-networking world.
+WATCH ME!!!
